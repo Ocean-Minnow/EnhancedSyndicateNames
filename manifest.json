@@ -6,6 +6,7 @@
 	"description": "Expands and improves (subjectively) the list of available syndicate names by moving some around, and restoring unused names!",
 	"authors": ["Minnow"],
 	"frameworkVersion": "2.33.20",
+	"contentFolders": ["content"],
 	"options": [
 		{
 			"name": "Dark Psykonaut",

@@ -21,7 +21,7 @@
 		},
 		{
 			"name": "The Disruptor",
-			"tooltip": "Fixes an IO typo, changing 'The Disrupter' to 'The Disruptor'. Has nothing to do with the Elusive Target, and predates him by at least a year.",
+			"tooltip": "Changes the spelling of 'The Disrupter' to 'The Disruptor'. Both spellings are apparently correct, so pick which one you like best. Has nothing to do with the Elusive Target, and actually predates him by at least a year.",
 			"type": "checkbox",
 			"localisationOverrides": {
 				"00EACC06D7A486ED": {

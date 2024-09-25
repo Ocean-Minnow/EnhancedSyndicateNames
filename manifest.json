@@ -1,9 +1,35 @@
 {
 	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
 	"version": "0.1.0",
-	"id": "YourPreferredAlias.AnIDForTheMod",
-	"name": "Test Mod",
-	"description": "A truly amazing mod",
-	"authors": ["Your Preferred Alias"],
-	"frameworkVersion": "2.25.1"
+	"id": "Minnow.EnhancedSyndicateNames",
+	"name": "Enhanced Syndicate Names",
+	"description": "Expands and improves (subjectively) the list of available syndicate names by moving some around, and restoring unused names!",
+	"authors": ["Minnow"],
+	"frameworkVersion": "2.25.1",
+	"options": [
+        {
+            "name": "Dark Psykonaut",
+            "tooltip": "Changes 'Dark Psychonaut' to the early/unused spelling 'Dark Psykonaut' because it looks cooler.",
+            "type": "checkbox",
+			"localisationOverrides": {
+				"00EACC06D7A486ED": {
+					"english": {
+						"3399344050": "Dark Psykonaut"
+					}
+				}
+            }
+		},
+        {
+            "name": "The Disruptor",
+            "tooltip": "Fixes an IO typo, changing 'The Disrupter' to 'The Disruptor'. Has nothing to do with the Elusive Target, and predates him by at least a year.",
+            "type": "checkbox",
+			"localisationOverrides": {
+				"00EACC06D7A486ED": {
+					"english": {
+						"2675087411": "The Disruptor"
+					}
+				}
+            }
+		}
+	]
 }

@@ -6,4 +6,4 @@ Expands and improves (subjectively) the list of available syndicate names by mov
 
 ---
 
-`Minnow.EnhancedSyndicateNames` v0.3.0, by Minnow. This README was automatically generated from the mod's manifest.
+`Minnow.EnhancedSyndicateNames` v0.3.1, by Minnow. This README was automatically generated from the mod's manifest.

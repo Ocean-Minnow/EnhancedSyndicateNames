@@ -1,6 +1,6 @@
 {
 	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
-	"version": "0.3.0",
+	"version": "0.3.1",
 	"id": "Minnow.EnhancedSyndicateNames",
 	"name": "Enhanced Syndicate Names",
 	"description": "Expands and improves (subjectively) the list of available syndicate names by moving some around, and restoring unused names!",
